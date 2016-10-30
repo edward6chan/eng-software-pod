@@ -4,7 +4,7 @@
 *.log
 *.vs
 APPLICATIONS/.vs
-
+*.RLOOP.VC.DB
 
 # SIL3 Pty Ltd Confidential #
 ###################
